@@ -1,35 +1,84 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nhat Hoang
-==================================================================================================================================
+<div align="center">
 
-Senior Embedded Software Engineer
----------------------------------
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" style="border-radius: 50%;" alt="nhathoangbui123">
+  
+  # Hi there, I'm Nhat Hoang 👋
+  
+  <a href="https://github.com/nhathoangbui123">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Senior+Embedded+Software+Engineer;Backend%2C+DevOps+%26+Networking;Building+Scalable+System+Solutions" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <a href="https://github.com/nhathoangbui123">
+      <img src="https://img.shields.io/github/followers/nhathoangbui123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
+    </a>
+    <a href="mailto:nhathoangbui123@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nhathoangbui123%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0891b2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" />
+    </a>
+  </p>
+  
+  <i>🌍 Based in Ho Chi Minh City, Vietnam 🇻🇳</i>
+</div>
 
-* 🌍  I'm based in Ho Chi Minh City
-* ✉️  You can contact me at [nhathoangbui123@gmail.com](mailto:nhathoangbui123@gmail.com)
+<br />
 
-<a href="https://www.github.com/nhathoangbui123" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nhathoangbui123?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### 👨‍💻 About Me
 
-### Skills
+- 🔭 I’m currently focused on **Embedded Systems, Backend Architecture, DevOps, and Networking.**
+- 🌱 I’m constantly exploring new technologies to build reliable, scalable connected systems.
+- 💬 Ask me about **C/C++, FreeRTOS, Backend/Cloud infrastructure, Docker, or bare-metal programming.**
+- ⚡ Fun fact: I love optimizing systems hardware down to the last byte of memory.
 
+<br />
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
 
+<div align="center">
+  <p><strong>Languages & Core</strong></p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go&theme=dark" />
+  <br/><br/>
+  
+  <p><strong>DevOps, Cloud & Networking</strong></p>
+  <img src="https://skillicons.dev/icons?i=bash,git,docker,kubernetes,linux,nginx,gcp,aws&theme=dark" />
+  <br/><br/>
+  
+  <p><strong>Hardware & Embedded</strong></p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,qt,ubuntu,vim&theme=dark" />
+  <br/><br/>
+  
+  <p><strong>Databases & Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres,redis,firebase&theme=dark" />
+</div>
 
-### Socials
+<br />
 
-<p align="left"> <a href="https://www.github.com/nhathoangbui123" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### 📊 GitHub Analytics
 
-### Badges
+<div align="center">
+  <a href="https://github.com/nhathoangbui123">
+    <img src="https://github-readme-stats.vercel.app/api?username=nhathoangbui123&show_icons=true&hide_border=true&title_color=0891b2&text_color=a6adbb&icon_color=0891b2&bg_color=1c1917&count_private=true" width="48%" />
+  </a>
+  <a href="https://github.com/nhathoangbui123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhathoangbui123&stroke=a6adbb&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/nhathoangbui123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhathoangbui123&bg_color=1c1917&color=a6adbb&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Contributions%20Graph" width="100%" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/nhathoangbui123">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhathoangbui123&layout=compact&langs_count=8&title_color=0891b2&text_color=a6adbb&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="60%" />
+  </a>
+</div>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/nhathoangbui123"><img src="https://github-readme-stats.vercel.app/api?username=nhathoangbui123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nhathoangbui123's GitHub stats" /></a>
-
-<a href="http://www.github.com/nhathoangbui123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nhathoangbui123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/nhathoangbui123"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nhathoangbui123&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/nhathoangbui123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhathoangbui123&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+<div align="center">
+  <sub>Designed with ❤️ for a cleaner UI</sub>
+</div>
