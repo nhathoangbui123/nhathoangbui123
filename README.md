@@ -59,10 +59,7 @@
 
 <div align="center">
   <a href="https://github.com/nhathoangbui123">
-    <img src="https://github-readme-stats.vercel.app/api?username=nhathoangbui123&show_icons=true&hide_border=true&title_color=0891b2&text_color=a6adbb&icon_color=0891b2&bg_color=1c1917&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/nhathoangbui123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhathoangbui123&stroke=a6adbb&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhathoangbui123&stroke=a6adbb&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="60%" />
   </a>
 </div>
 <br/>
@@ -71,14 +68,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nhathoangbui123&bg_color=1c1917&color=a6adbb&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Contributions%20Graph" width="100%" />
   </a>
 </div>
-<br/>
-<div align="center">
-  <a href="https://github.com/nhathoangbui123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhathoangbui123&layout=compact&langs_count=8&title_color=0891b2&text_color=a6adbb&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" width="60%" />
-  </a>
-</div>
+
 
 ---
 <div align="center">
-  <sub>Designed with ❤️ for a cleaner UI</sub>
+  <sub>Designed with ❤️ by Nhat Hoang</sub>
 </div>
